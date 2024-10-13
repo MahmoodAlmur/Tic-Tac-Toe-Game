@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\14 - C# - Level 1\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.exe.config
+C:\Users\User\source\repos\14 - C# - Level 1\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.exe
+C:\Users\User\source\repos\14 - C# - Level 1\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.pdb
+C:\Users\User\source\repos\14 - C# - Level 1\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\14 - C# - Level 1\Tic-Tac-Toe Game\obj\Debug\Tic_Tac_Toe_Game.frmXOGame.resources
+C:\Users\User\source\repos\14 - C# - Level 1\Tic-Tac-Toe Game\obj\Debug\Tic_Tac_Toe_Game.Properties.Resources.resources
+C:\Users\User\source\repos\14 - C# - Level 1\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.GenerateResource.cache
+C:\Users\User\source\repos\14 - C# - Level 1\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\14 - C# - Level 1\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.exe
+C:\Users\User\source\repos\14 - C# - Level 1\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.pdb
